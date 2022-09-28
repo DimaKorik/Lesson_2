@@ -1,4 +1,4 @@
-public class Main {
+public class FavoriteSong {
 
     public static void main(String[] args) {
         System.out.println("Ещё чуть-чуть и прямо в рай");
